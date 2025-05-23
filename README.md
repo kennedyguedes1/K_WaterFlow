@@ -47,12 +47,16 @@ Veja na pasta `resultados/`:
 
 ## 🎥 Demonstração
 
-[Link para o vídeo no YouTube](#) ← (Adicione aqui o link do seu vídeo)
+](https://youtu.be/bOd7mAYoe0I?feature=shared) ← (Adicione aqui o link do seu vídeo)
 
 ## 📁 Esquema do Projeto
 
 - `esquema.png` → Diagrama de montagem
+- ![image](https://github.com/user-attachments/assets/0b50aa30-9ed4-4d12-8e10-6c1d069b983a)
+
 - `fluxograma.png` → Lógica de funcionamento
+![undefined_ESP32-S3_and_MQTT_Data_Handling](https://github.com/user-attachments/assets/9a5c5c9e-7f44-4af7-8cc7-89894039268b)
+
 
 ---
 
